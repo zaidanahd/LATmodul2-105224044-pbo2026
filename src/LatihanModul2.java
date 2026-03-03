@@ -14,7 +14,6 @@ public class LatihanModul2 {
         System.out.println("hasil pembagian 20 dan 3 = " + ((double)d/c));
         System.out.println("hasil pembagian 20 dan 3 = " + hasil );
         System.out.println("modulus = " + (d%c));
-        System.out.println("Hello, World!");
 
         Scanner input = new Scanner(System.in);
 

@@ -27,9 +27,5 @@ public class LatihanModul2 {
 
         System.out.println(nama + " " + tanggalLahir);
         input.close();
-
-        
-
-
     }
 }

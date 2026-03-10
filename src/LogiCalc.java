@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LogiCalc {
+public class logiCalc {
     public static void main(String[] args) {
 
         //input dari user
